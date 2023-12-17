@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -g -std=c17
+CFLAGS = -g -std=gnu17
 WFLAGS = -Wpedantic -Wextra -Wall -Werror
 LEX = flex
 
